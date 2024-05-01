@@ -13,7 +13,7 @@
     "agerating": "16+",
     "actors": ["Тим Роббинс", "Морган Фримен", "Боб Гантон"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "agerating": "6+",
     "actors": ["Джиннифер Гудвин", "Нейт Торренс", "Томми Чонг"],
     "comments": [],
-    "type": multfilm
+    "type": "multfilm"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "agerating": "12+",
     "actors": ["Кристиан Бэйл", "Хит Леджер", "Аарон Экхарт"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "agerating": "0+",
     "actors": ["Том Хэнкс", "Тим Аллен", "Джоан Кьюсак"],
     "comments": [],
-    "type": multfilm
+    "type": "multfilm"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "agerating": "12+",
     "actors": ["Леонардо ДиКаприо", "Джозеф Гордон-Левитт", "Эллен Пейдж"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
   {
     "id": 6,
@@ -93,7 +93,7 @@
     "agerating": "12+",
     "actors": ["Джесси Айзенберг", "Эндрю Гарфилд", "Джастин Тимберлейк"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     "agerating": "12+",
     "actors": ["Уилл Смит", "Джейден Смит", "Танди Ньютон"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
   {
     "id": 8,
@@ -125,7 +125,7 @@
     "agerating": "18+",
     "actors": ["Питер Динклэйдж", "Лина Хиди", "Эмилия Кларк"],
     "comments": [],
-    "type": serial
+    "type": "serial"
   },
   {
     "id": 9,
@@ -141,7 +141,7 @@
     "agerating": "12+",
     "actors": ["Том Холланд", "Майкл Китон", "Роберт Дауни мл."],
     "comments": [],
-    "type": film
+    "type": "film"
   },
   {
     "id": 10,
@@ -153,11 +153,11 @@
     "genres": ["Фантастика", "Драма", "Криминал"],
     "release": 2014,
     "rating": 8.3,
-    "duration": 40 мин",
+    "duration": "40 мин",
     "agerating": "18+",
     "actors": ["Йоан Гриффит", "Донни Кешаварц", "Эли Токаш"],
     "comments": [],
-    "type": serial
+    "type": "serial"
   },
     {
     "id": 11,
@@ -173,7 +173,7 @@
     "agerating": "16+",
     "actors": ["Джош Хартлетт", "Брюс Уиллис", "Морган Фриман"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
     {
     "id": 12,
@@ -189,7 +189,7 @@
     "agerating": "6+",
     "actors": ["Андрей Андреев", "Виктор Добронравов", "Дарья Урсуляк"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
     {
     "id": 13,
@@ -205,7 +205,7 @@
     "agerating": "16+",
     "actors": ["Крис Хемсворт", "Даниэль Брют", "Оливия Уайлд"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
     {
     "id": 14,
@@ -221,7 +221,7 @@
     "agerating": "18+",
     "actors": ["Райан Гослинг", "Шон Пенн", "Эмма Стоун"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
     {
     "id": 15,
@@ -237,7 +237,7 @@
     "agerating": "18+",
     "actors": ["Чхве Мин-сик", "Ю Джи-тхэ", "Кан Хе-джон"],
     "comments": [],
-    "type": film
+    "type": "film"
   },
     {
     "id": 16,
@@ -253,6 +253,6 @@
     "agerating": "18+",
     "actors": ["Белла Торн", "Камерон Монахэн", "Дженнифер Джейсон"],
     "comments": [],
-    "type": film
+    "type": "film"
   }
 ]
